@@ -1,0 +1,52 @@
+{
+  "message": "ok",
+  "code": 1000,
+  "content": {
+    "imgUrl": "https://static.linebank.co.id/resources/line-profile/20210427/42d86ae1-5a7e-4df4-b3be-89fb0ac54d18.jpg",
+    "usrId": "1619505156877ZYXVXZSHQ",
+    "custNo": "0000052419",
+    "custNm": "ANGELINE TAN",
+    "usrAlias": "Strong Angelâ£ï¸",
+    "emailAdr": "angelinetan27@yahoo.com",
+    "phoneNo": "087880888951",
+    "lineId": "U71828379d09a3e5bfc5c7f876a575dab",
+    "homeAddress": {
+      "provinceCode": "03",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "0392",
+      "cityName": "JAKARTA UTARA",
+      "districtCode": "039202",
+      "districtName": "KELAPA GADING",
+      "subDistrictCode": "03920201",
+      "subDistrictName": "KELAPA GADING BARAT",
+      "zipCode": "",
+      "detailAddress": "APT CITY HOME TWR MIAMI BAY LT 18/06",
+      "rt": "007",
+      "rw": "019"
+    },
+    "bizAddress": {
+      "provinceCode": "03",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "0394",
+      "cityName": "JAKARTA SELATAN",
+      "districtCode": "039409",
+      "districtName": "SETIA BUDI",
+      "subDistrictCode": "03940904",
+      "subDistrictName": "KARET SEMANGGI",
+      "zipCode": "12930",
+      "detailAddress": "MANGKULUHUR CITY TOWER 1 LT GF MZ 2 9 10 11 12 15JL JEND GATOT SUBROTO KAV 1 SD 3",
+      "rt": "001",
+      "rw": "001"
+    },
+    "npwpStatus": 9,
+    "npwpSubmitted": true,
+    "npwpNo": "708879549003000",
+    "motherName": "YULIANA",
+    "occupation": "005",
+    "occupationName": "Company employee",
+    "compName": "BANK KEB HANA INDONESIA",
+    "compPhoneNo": "5081111",
+    "industry": "649100",
+    "industryName": "Financial Service"
+  }
+}
